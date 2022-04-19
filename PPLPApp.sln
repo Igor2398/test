@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PPLPApp", "PPLP - App\PPLPApp.csproj", "{B2426D4B-F4A4-4B01-B008-A7E4F4993054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2426D4B-F4A4-4B01-B008-A7E4F4993054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2426D4B-F4A4-4B01-B008-A7E4F4993054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2426D4B-F4A4-4B01-B008-A7E4F4993054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2426D4B-F4A4-4B01-B008-A7E4F4993054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A791A1A5-7318-4721-80F4-0684D51E51DD}
+	EndGlobalSection
+EndGlobal

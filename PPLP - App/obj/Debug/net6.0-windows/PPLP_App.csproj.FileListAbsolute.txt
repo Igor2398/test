@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\bin\Debug\net6.0-windows\PPLP_App.exe
+C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\bin\Debug\net6.0-windows\PPLP_App.deps.json
+C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\bin\Debug\net6.0-windows\PPLP_App.runtimeconfig.json
+C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\bin\Debug\net6.0-windows\PPLP_App.dll
+C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\bin\Debug\net6.0-windows\ref\PPLP_App.dll
+C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\bin\Debug\net6.0-windows\PPLP_App.pdb
+C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\obj\Debug\net6.0-windows\PPLP___App.ArcFurnanceDesign.resources
+C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\obj\Debug\net6.0-windows\PPLP_App.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\obj\Debug\net6.0-windows\PPLP_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\obj\Debug\net6.0-windows\PPLP_App.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\obj\Debug\net6.0-windows\PPLP_App.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\obj\Debug\net6.0-windows\PPLP_App.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\obj\Debug\net6.0-windows\PPLP_App.dll
+C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\obj\Debug\net6.0-windows\ref\PPLP_App.dll
+C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\obj\Debug\net6.0-windows\PPLP_App.pdb
+C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\obj\Debug\net6.0-windows\PPLP_App.genruntimeconfig.cache
