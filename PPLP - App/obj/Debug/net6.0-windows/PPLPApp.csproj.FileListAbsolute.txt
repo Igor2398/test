@@ -16,3 +16,21 @@ C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\obj\Debug\net6.0-windows\ref\
 C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\obj\Debug\net6.0-windows\PPLPApp.pdb
 C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\obj\Debug\net6.0-windows\PPLPApp.genruntimeconfig.cache
 C:\Users\lenovo\source\repos\PPLP - App\PPLP - App\obj\Debug\net6.0-windows\PPLPApp.Form2.resources
+C:\Users\igor1\Source\Repos\test\PPLP - App\bin\Debug\net6.0-windows\PPLPApp.exe
+C:\Users\igor1\Source\Repos\test\PPLP - App\bin\Debug\net6.0-windows\PPLPApp.deps.json
+C:\Users\igor1\Source\Repos\test\PPLP - App\bin\Debug\net6.0-windows\PPLPApp.runtimeconfig.json
+C:\Users\igor1\Source\Repos\test\PPLP - App\bin\Debug\net6.0-windows\PPLPApp.dll
+C:\Users\igor1\Source\Repos\test\PPLP - App\bin\Debug\net6.0-windows\PPLPApp.pdb
+C:\Users\igor1\Source\Repos\test\PPLP - App\obj\Debug\net6.0-windows\PPLPApp.csproj.AssemblyReference.cache
+C:\Users\igor1\Source\Repos\test\PPLP - App\obj\Debug\net6.0-windows\PPLPApp.ArcFurnanceDesign.resources
+C:\Users\igor1\Source\Repos\test\PPLP - App\obj\Debug\net6.0-windows\PPLPApp.Form2.resources
+C:\Users\igor1\Source\Repos\test\PPLP - App\obj\Debug\net6.0-windows\PPLPApp.csproj.GenerateResource.cache
+C:\Users\igor1\Source\Repos\test\PPLP - App\obj\Debug\net6.0-windows\PPLPApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor1\Source\Repos\test\PPLP - App\obj\Debug\net6.0-windows\PPLPApp.AssemblyInfoInputs.cache
+C:\Users\igor1\Source\Repos\test\PPLP - App\obj\Debug\net6.0-windows\PPLPApp.AssemblyInfo.cs
+C:\Users\igor1\Source\Repos\test\PPLP - App\obj\Debug\net6.0-windows\PPLPApp.csproj.CoreCompileInputs.cache
+C:\Users\igor1\Source\Repos\test\PPLP - App\obj\Debug\net6.0-windows\PPLPApp.dll
+C:\Users\igor1\Source\Repos\test\PPLP - App\obj\Debug\net6.0-windows\refint\PPLPApp.dll
+C:\Users\igor1\Source\Repos\test\PPLP - App\obj\Debug\net6.0-windows\PPLPApp.pdb
+C:\Users\igor1\Source\Repos\test\PPLP - App\obj\Debug\net6.0-windows\PPLPApp.genruntimeconfig.cache
+C:\Users\igor1\Source\Repos\test\PPLP - App\obj\Debug\net6.0-windows\ref\PPLPApp.dll

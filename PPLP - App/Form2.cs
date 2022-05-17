@@ -17,39 +17,33 @@ namespace PPLPApp
             InitializeComponent();
         }
 
-        private void btnNext_Click(object sender, EventArgs e)
+        private void Form2_Load(object sender, EventArgs e)
         {
-            double h, ba;
-            bool isValid = true;
+            lblD.Text += ArcFurnanceDesign.d + " [m]";
+            lblD1.Text += ArcFurnanceDesign.d1 + " [m]";
+            lblD10.Text += ArcFurnanceDesign.d10 + " [m]";
+            lblD2.Text += ArcFurnanceDesign.d2 + " [m]";
+            lblD3.Text += ArcFurnanceDesign.d3 + " [m]";
+            lblDn.Text += ArcFurnanceDesign.dn + " [m]";
+            lblE.Text += ArcFurnanceDesign.e;
+            lblG.Text += ArcFurnanceDesign.g + " Mg przy założeniach: ";
+            lblGs1.Text += ArcFurnanceDesign.gs1 + " [m]";
+            lblH.Text += ArcFurnanceDesign.h + " [m]";
+            lblH1.Text += ArcFurnanceDesign.h1 + " [m]";
+            lblH10.Text += ArcFurnanceDesign.h10 + " [m]";
+            lblH2.Text += ArcFurnanceDesign.h2 + " [m]";
+            lblH3.Text += ArcFurnanceDesign.h3 + " [m]";
+            lblH4.Text += ArcFurnanceDesign.h4 + " [m]";
+            lblK.Text += ArcFurnanceDesign.k + " stopni";
+            lblKso.Text += ArcFurnanceDesign.kso + " ma następujące wymiary geometryczne: ";
+            lblM.Text += ArcFurnanceDesign.m + " [m]";
+            lblN.Text += ArcFurnanceDesign.n + " [m]";
+            lblP.Text += ArcFurnanceDesign.p + " [m]"; 
+        }
 
-            if (!double.TryParse(txtDepth.Text, out h))
-            {
-                MessageBox.Show("Wprowadzona wartosc cieklej stali jest bledna!");
-                isValid = false;
-            }
-
-            if(isValid)
-            {
-                double h10 = 0.2 * h;
-                double h2 = 0.8 * h;
-
-                if(ArcFurnanceDesign.g < 20)
-                {
-                    ba = 0.145;
-                }
-                else
-                {
-                    ba = 0.125;
-                }
-
-                double h3 = ba * h;
-                double h1 = 0.75 * Math.Pow(ArcFurnanceDesign.g, 0.125);
-                double d2a = ArcFurnanceDesign.ks * h;
-                double d2b = 0.89 * h + Math.Sqrt(ArcFurnanceDesign.v2 / 0.71 * h) - Math.Pow(h, (double)2 / 4);
-
-                lblEmp.Text += d2b;
-                lblTheor.Text += d2a;
-            }
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            System.Windows.Forms.Application.Exit();
         }
     }
 }

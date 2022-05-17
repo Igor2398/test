@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\PPLP - App\\PPLP - App\\PPLPApp.csproj": {}
+    "C:\\Users\\igor1\\source\\repos\\test\\PPLP - App\\PPLPApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\PPLP - App\\PPLP - App\\PPLPApp.csproj": {
+    "C:\\Users\\igor1\\source\\repos\\test\\PPLP - App\\PPLPApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\PPLP - App\\PPLP - App\\PPLPApp.csproj",
+        "projectUniqueName": "C:\\Users\\igor1\\source\\repos\\test\\PPLP - App\\PPLPApp.csproj",
         "projectName": "PPLPApp",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\PPLP - App\\PPLP - App\\PPLPApp.csproj",
-        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\PPLP - App\\PPLP - App\\obj\\",
+        "projectPath": "C:\\Users\\igor1\\source\\repos\\test\\PPLP - App\\PPLPApp.csproj",
+        "packagesPath": "C:\\Users\\igor1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\igor1\\source\\repos\\test\\PPLP - App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\igor1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -61,7 +61,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
